@@ -5,9 +5,6 @@
 ## Dr. Hamidreza Amindavar
 
 
-<p>
- <img src="https://user-images.githubusercontent.com/54024838/139378803-3990a50e-a7e2-4be1-8972-794f877b957a.jpeg" width="110">
-</p>
  
 
 
